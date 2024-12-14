@@ -54,7 +54,7 @@ Všechny otázky jsou diktované a počátečním impulzem byl článek týkají
 
 ## Dotaz:
 
-Proč jsou některé houby jedovaté a některé ne? Proč se u některých objevila toxicita nebo jedovatost? Je to jako obrana proti sbírání anebo reakce na prostředí? A co bylo dřív? Toxické houby, jedovaté houby, nebo jedlé houby?
+Proč jsou některé houby jedovaté a některé ne? Proč se u některých objevila toxicita nebo jedovatost? Je to jako obrana proti sbírání anebo reakce na prostředí? A co bylo dřív? Toxické houby, nebo jedlé houby?
 
 ## ChatGPT:
 
@@ -90,7 +90,7 @@ Houby jsou tedy výsledkem složitého evolučního procesu, kde toxicita i jedl
 
 ## Dotaz:
 
-A když teda jedlé a nejedlé houby dokáží koexistovat pospolu, teda aspoň v rámci lesa, tak počítám, že každá z přírody skrze mycelium vtahuje jiné látky. Je tedy možné, že ta specializace na to, co vtahuje z přírody, může mít na jedovatost také vliv? Že prostě nějaké houby si oblíbily třeba tyhle prvky a ty pak uvnitř nich automaticky vytvářejí něco, co je jedovaté pro člověka a pro někoho jiného. Takže ta jedovatost by byla samovolný efekt.
+A když teda jedlé a nejedlé houby dokáží koexistovat pospolu, teda aspoň v rámci lesa, tak počítám, že každá z přírody skrze mycelium vtahuje jiné látky. Je tedy možné, že ta specializace na to, co vtahuje z přírody, může mít na jedovatost také vliv? Že prostě nějaké houby si oblíbily třeba tyhle prvky a ty pak uvnitř nich automaticky vytvářejí něco, co je jedovaté pro člověka a pro někoho jiného zase ne? Takže ta jedovatost by byla samovolný efekt?
 
 ## ChatGPT:
 
@@ -131,7 +131,7 @@ Ano, specializace na konkrétní látky z prostředí a jejich chemické zpracov
 
 ## Dotaz:
 
-A může to být teda i součást jejich konkurenčního boje, kdy si vlastně neprorůstají vzájemně u zemí, protože každá obsahuje jiné sloučeniny, které pro tu druhou nemusí být příjemné. Nebo by to ještě mohlo dojít tak daleko, že některé houby díky tomu, že obsahují sloučeniny, které nejsou příjemné pro jiné houby, mohou zabírat jejich prostředí. Možné je něco takového.
+A může to být teda i součást jejich konkurenčního boje, kdy si vlastně neprorůstají vzájemně u zemí, protože každá obsahuje jiné sloučeniny, které pro tu druhou nemusí být příjemné? Nebo je to tak daleko, že některé houby díky tomu, že obsahují sloučeniny, které nejsou příjemné pro jiné houby, mohou zabírat jejich prostředí. Je něco takového možné?
 
 ## ChatGPT:
 
@@ -339,7 +339,7 @@ Ačkoli houby a neurony mají odlišné biologické funkce, mycelium lze metafor
 
 ## Dotaz:
 
-A kdybychom teda zůstali u tohohle přirovnání a vycházeli z toho, že mycelium se vlastně rozrůstá na základě podnětů v půdě, kterou nějak hodnotí – čím by z tohohle pohledu byl vlastně mozek, skrze který rostou neurony? A co je to prostředí, kterém jsou? Čím je vlastně pro mycelium hlína?
+A kdybychom teda zůstali u tohohle přirovnání a vycházeli z toho, že mycelium se vlastně rozrůstá na základě podnětů v půdě, kterou nějak hodnotí – čím by z tohohle pohledu byl vlastně mozek, skrze který rostou neurony? A co je to prostředí, v kterém jsou? Čím pro ně to, co je pro mycelium hlína?
 
 ## ChatGPT:
 
@@ -403,7 +403,7 @@ Tato analogie ukazuje, že obě struktury – mycelium i neuronové sítě – j
 
 ## Dotaz:
 
-Dalo by se tedy říct, že kdybychom zůstali u tohohle přirovnání a představili si mozek jako jakési neuronové mycelium, které postupně reaguje na prostředí a na systém, ve kterém je obsažené, a ukládá reakce na podněty a jejich vyhodnocení – v tu chvíli, kdyby začínal z nějakého primitivního mozku a postupně se rozvíjel – je to tak, že ten mozek by byl něco jako prostor, kde každá část je připravená, optimalizovaná na určitý úkul? Takže to mycelium by si vytvářelo prostory, kde určité úkony jdou rychleji, a pro jejich výpočet nebo potřebu by chodilo tam. A postupně, jak by nabývala složitost a vyvinutost organismu, vyvíjel by se vlastně i tenhle proces různých optimalizovaných částí a tím by vznikl komplexní mozek člověka.
+Dalo by se tedy říct, že kdybychom zůstali u tohohle přirovnání a představili si mozek jako jakési neuronové mycelium, které postupně reaguje na prostředí a na systém, ve kterém je obsažené, a ukládá reakce na podněty a jejich vyhodnocení. Pak, kdyby začínal z nějakého primitivního mozku a postupně se rozvíjel – je to tak, že ten mozek by byl něco jako prostor, kde každá část je připravená, optimalizovaná na určitý úkul? Takže to mycelium by si vytvářelo prostory, kde určité úkony jdou rychleji, a pro jejich výpočet nebo potřebu by chodilo tam. A postupně, jak by nabývala složitost a vyvinutost organismu, vyvíjel by se vlastně i tenhle proces různých optimalizovaných částí a tím by vznikl komplexní mozek člověka?
 
 ## ChatGPT:
 
@@ -471,7 +471,7 @@ Rozvoj složitosti mozku lze chápat jako evoluční proces, kde každá nová v
 
 ## Dotaz:
 
-A jsou tyto jednotlivé centra vytvářena tak, že je tam nějaký vstup, výstup a pak vlastně to vnitřní centrum, které zabírá jako svůj samostatný objekt? Například jako když lidé dřív dělali to, že skrze oko přerušili nějakou dráhu v mozku a lidem se potom změnila povaha. Je tohle třeba právě tím, že přerušili přívod do nějaké z částí toho předního laloku? A je to teda tak, že opravdu všechna ta centra jsou propojená nějakými uzly, které jdou do toho hlavního centra? A které to je?
+A jsou tyto jednotlivé centra vytvářena tak, že je tam nějaký vstup, výstup a ty vedou do hlavního centra? Například jako když lidé dřív dělali to, že skrze oko přerušili nějakou dráhu v mozku a lidem se potom změnila povaha. Je tohle třeba právě tím, že přerušili přívod do nějaké z částí toho předního laloku? A je to teda tak, že opravdu všechna ta centra jsou propojená nějakými uzly, které jdou do toho hlavního centra? A které to je?
 
 ## ChatGPT:
 
@@ -637,7 +637,7 @@ Přemístění vědomí do jednotlivých částí mozku by odhalilo, jak special
 
 ## Dotaz:
 
-Myslíš tedy, že používání drog, ať už halucinogenních nebo stimulačních, dochází právě k jakési modulaci centra, ve kterém se nachází procesy, které uživatel pociťuje? Je možné, že tyto látky vlastně aktivují nějakou specifickou oblast myšlenek či reakcí a tím pádem simulují například spirituální zážitky, nebo odblokovávají některé zablokované dráhy v mozku?
+Myslíš tedy, že používání drog, ať už halucinogenních nebo stimulačních, dochází právě k jakési alokaci v učité části mozku, které uživatel pak pociťuje? Je možné, že tyto látky vlastně aktivují nějakou specifickou oblast mysli a tak stimulují například spirituální zážitky, nebo odblokovávají některé zablokované dráhy v mozku?
 
 ## ChatGPT:
 
@@ -695,7 +695,7 @@ Užívání drog může způsobit zážitky podobné přesunu vědomí do specif
 
 ## Dotaz:
 
-Dalo by se říct, že problém se zneužíváním drog je způsoben nedostatečnou schopností společnosti využít jejich terapeutický potenciál? Že tím, že jsou nezákonné, ale jejich potenciál je tak silný, si lidé hledají vlastní cestu? A z nevědomosti všech aspektů se dostávají do závislostí a místo prostředku rozvoje je užívají destruktivně?
+Dalo by se říct, že problém se zneužíváním drog je způsoben nedostatečnou schopností společnosti využít jejich terapeutický potenciál? Že tím, že jsou nezákonné, ale jejich potenciál je tak silný, tak si lidé hledají vlastní cestu? A z nevědomosti všech aspektů se dostávají do závislostí, když je místo prostředku rozvoje užívají destruktivně?
 
 ## ChatGPT:
 
@@ -739,7 +739,7 @@ Je pravda, že velký terapeutický potenciál drog není plně využíván, pro
 
 ## Dotaz:
 
-Takže by se dalo říct, že osvěta poráží prohibici, co se dopadu na vývoj společnosti týče?
+Takže by se dalo říct, že osvěta poráží prohibici, co se dlouhodobého dopadu na vývoj společnosti týče?
 
 ## ChatGPT:
 
