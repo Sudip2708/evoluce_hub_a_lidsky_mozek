@@ -5,9 +5,8 @@
 
  
 
-Záznam konverzace s ChatGPT pořízený při vycházce se psem.  
-Počátečním impulzem byl článek týkající se evoluce hub.  
-Otázky jsou diktované.  
+Záznam konverzace s ChatGPT pořízený při vycházce se psem :-)  
+Všechny otázky jsou diktované a počátečním impulzem byl článek týkající se evoluce hub.    
 
 [2024-14-12]
 
