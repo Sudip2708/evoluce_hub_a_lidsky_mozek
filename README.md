@@ -625,7 +625,7 @@ Přemístění vědomí do jednotlivých částí mozku by odhalilo, jak special
 
 ## Dotaz:
 
-Myslíš tedy, že používání drog, ať už halucinogenních nebo stimulačních, dochází právě k jakési alokaci v učité části mozku, které uživatel pak pociťuje? Je možné, že tyto látky vlastně aktivují nějakou specifickou oblast mysli a tak stimulují například spirituální zážitky, nebo odblokovávají některé zablokované dráhy v mozku?
+Myslíš, že používání drog, ať už halucinogenních nebo stimulačních, vede k alokaci vědomí do určité části mozku? Že u stimulačních drog dochází k oslabení některých oblastí a posílení jiných, a podobně u halucinogenů, kdy člověk zažívá specifický pohled z určité části mozku? A co třeba drogy jako ketamin, které utlumují všechna centra a přináší zážitek z primárních částí mozku?
 
 ## ChatGPT:
 
