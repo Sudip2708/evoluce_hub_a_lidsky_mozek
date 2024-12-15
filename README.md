@@ -15,40 +15,28 @@ Všechny otázky jsou diktované a počátečním impulzem byl článek týkají
 ## Obsah
 
 [**Proč některé houby vyvinuly toxicitu a jiné ne?**](#dotaz)  
-*(Stručný pohled na evoluční otázky kolem jedovatosti hub.)*
 
 [**Vliv látek z prostředí na jedovatost hub.**](#dotaz-1)  
-*(Mohla by specializace na určité prvky vést k toxicitě?)*
      
 [**Jak jedovatost může pomáhat houbám v konkurenčním boji.**](#dotaz-2)  
-*(Přemýšlení o chemickém boji mezi houbami.)*
 
 [**Mohou být mycelia propojena mezi různými druhy hub?**](#dotaz-3)  
-*(Otázka, zda houby sdílejí své sítě.)*
 
 [**Přirovnání růstu mycelia k neuronovým sítím v mozku.**](#dotaz-4)  
-*(Analogie mezi houbami a lidským mozkem.)*
 
 [**Čím by v přirovnání mycelia a mozku byla "hlína"?**](#dotaz-5)  
-*(Prostředí, které podporuje růst neuronů a mycelia.)*
 
 [**Mozek jako komplexní mycelium reagující na podněty.**](#dotaz-6)  
-*(Vývoj a specializace mozkových struktur.)*
 
 [**Jak fungují mozková centra a jejich propojení.**](#dotaz-7)  
-*(Vstupy, výstupy a přerušení spojení.)*
 
 [**Jaké zážitky poskytují jednotlivé oblasti mozku?**](#dotaz-8)  
-*(Pohled na vědomí zaměřené na konkrétní části.)*
 
 [**Jak drogy mění vnímání skrze ovlivnění částí mozku.**](#dotaz-9)  
-*(Rozdíly mezi halucinogeny, stimulanty a ketaminem.)*
 
 [**Zneužívání drog a jejich terapeutický potenciál** ](#dotaz-10)  
-*(Proč zneužívání drog často pramení z nevyužitého potenciálu.)*  
 
 [**Jak osvěta ovlivňuje vývoj společnosti v kontrastu s prohibicí?** ](#dotaz-11)  
-*(Mohlo by být šíření informací efektivnější strategií než zákaz, pokud jde o řešení společenských problémů?)*
 
 ---
 
